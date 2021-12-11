@@ -15,4 +15,4 @@ I enjoy logic puzzles and games and I see coding as another way to keep my mind 
 ### 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natasa410&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natasa410&hide=stars&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
-TODO: add my linkedin
+[![image](https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin)](https://www.linkedin.com/in/anastasia-papaioannou410/)
