@@ -5,7 +5,7 @@ I enjoy logic puzzles and games and I see coding as another way to keep my mind 
 - 🔭 I’m currently working on Paw Detective and Travelog.
 - 🌱 I’m currently learning how to test React Apps and working on improving my Typescript skills.
 - ⚡ Fun fact: In my previous life I have studied and worked as an Early Childhood Educator that thought me patience, to stay calm under pressure and multi-tasking. ☺
-- 📫 How to reach me: my email
+- 📫 How to reach me: natpap410@gmail.com
 
 ### I know my way around
 
