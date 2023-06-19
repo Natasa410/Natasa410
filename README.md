@@ -1,9 +1,9 @@
-### Hi there 👋 I am Anastasia a Full-Stack Developer currently located in Dublin, Ireland.
+### Hi there 👋 I am Anastasia a Front-End Developer currently located in Zurich, Switzerland.
 
 I enjoy logic puzzles and games and I see coding as another way to keep my mind sharp.I like solving problems and creating Apps!
 
-- 🔭 I’m currently working on Paw Detective and Travelog.
-- 🌱 I’m currently learning how to test React Apps and working on improving my Typescript skills.
+- 🔭 My work experience include my project Paw Detective and working for UFODrive.
+- 🌱 I’m currently improving my skills on testing React Apps and learning more on React Native.
 - ⚡ Fun fact: In my previous life I have studied and worked as an Early Childhood Educator that thought me patience, to stay calm under pressure and multi-tasking. ☺
 - 📫 How to reach me: natpap410@gmail.com
 
